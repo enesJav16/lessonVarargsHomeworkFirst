@@ -14,6 +14,7 @@ public class Main {
         System.out.println(Arrays.toString(b));
         System.out.println(a);
         System.out.println(contains(a,b));
+
     }
     public static boolean contains(int a , int...b) {
         boolean k =false;
